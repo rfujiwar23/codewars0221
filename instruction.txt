@@ -1,0 +1,1 @@
+Create a function, where each digit of a number is squared, and then combined to make a new number
